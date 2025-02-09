@@ -96,7 +96,7 @@ main .gallery img {
   aspect-ratio: 1/1;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   nav {
     padding: 20px;
     display: flex;
